@@ -1,0 +1,11 @@
+.venv/
+data/
+__pycache__/
+.ipynb_checkpoints/
+output_log.txt
+*.zip
+make_report.py
+rsai_dp_mnist.py
+README.md
+*.pdf
+RSAI_SetD_DP_PIN_Recogniser.ipynb
